@@ -1,0 +1,19 @@
+#likes{
+    background-color: yellow;
+    border: 1px solid black;
+    padding: 30px;
+}
+
+#dislikes{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.yes{
+    border-bottom: 1px solid black
+}
+
+.no{
+    border:1px dotted white
+}
